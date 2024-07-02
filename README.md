@@ -44,7 +44,7 @@ Step 3: Test with Postman
 
 
 Outputs:
-![Log_output](./Log_ouput.png)
+![Log_output](./Log_output.png)
 ![Bucket](./Bucket.png)
 
 
